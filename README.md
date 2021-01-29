@@ -2,7 +2,7 @@
 This is Nyarime, a student, currently studying Kotlin!
 ### 💬 Language
 * ✅Chinese (Mandarin and Hokkien)
-* ✅English （Basic）
+* ✅English（Basic）
 * ✅español (Spanish)
 
 ### 📫 Contact me
