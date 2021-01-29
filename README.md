@@ -4,19 +4,19 @@
 ### 😄 Introduction
 This is Nyarime, a student, currently studying Kotlin!
 ### 💬 Language
-✅Chinese (Mandarin and Hokkien)
-✅English （Basic）
-✅español (Spanish)
+* ✅Chinese (Mandarin and Hokkien)
+* ✅English （Basic）
+* ✅español (Spanish)
 
 ### 📫 Contact me
-HomePage: https://nyari.me
-Twitter: https://twitter.com/RealNyarime
-Telegram: https://t.me/NyarimeW
-E-Mail: admin@itxe.net
+* HomePage: https://nyari.me
+* Twitter: https://twitter.com/RealNyarime
+* Telegram: https://t.me/NyarimeW
+* E-Mail: admin@itxe.net
 
 ### 🌱 Projects
-MoeIDC: https://idc.moe
-Biu.Li: https://biu.li
+* MoeIDC: https://idc.moe
+* Biu.Li: https://biu.li
 
 <!--
 **Nyarime/Nyarime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
