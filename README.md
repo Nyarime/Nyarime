@@ -1,7 +1,8 @@
 ### Hi there 👋
-This is Nyarime, a student, currently studying Kotlin!
 [![MyGitHub](https://github-readme-stats.vercel.app/api?username=Nyarime)]()
 
+### 😄 Introduction
+This is Nyarime, a student, currently studying Kotlin!
 ### 💬 Language
 ✅Chinese (Mandarin and Hokkien)
 ✅English （Basic）
