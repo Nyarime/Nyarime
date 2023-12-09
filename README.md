@@ -3,9 +3,9 @@
 # Nyarime
 ## Hi there 👋
 ### 😄 Introduction
-This is Nyarime, a student, currently studying Kotlin!
+This is Nyarime, a developer, currently studying Kotlin!
 ### 📫 Contact me
-* HomePage: https://nyari.me
+* HomePage: https://www.naixi.net
 * Twitter: https://twitter.com/realNyarime
 * Telegram: https://t.me/NyarimeW
 * E-Mail: admin@itxe.net
